@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kaiquemarques00
-- 👀 I'm interested in programming, currently front-end codes, working in javascript, html and css
+- 👀 I'm interested in programming, currently front-end codes, working in JavaScript, HTML and CSS
 - 🌱 I'm currently learning about front-end technologies with html, css and javascript, I'm also in the 2nd semester of system analysis and development where I worked with the C language, I had an introduction to software engineering and network management.
 - 💞️ I'm looking to collaborate on objective codes, ideas, creativity, objective solutions. 
 - 📫 How to reach me with my e-mail kaiquemarques581@outlook.com
